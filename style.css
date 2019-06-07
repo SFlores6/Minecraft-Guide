@@ -1,0 +1,69 @@
+.header{
+  height: 350px;
+  padding: 25px;
+  text-align: center;
+  background-image: url(https://ih1.redbubble.net/image.402934143.1063/flat,550x550,075,f.u2.jpg);
+  border: 19px dotted Gold;
+  
+}
+
+.about-me{
+  font-size: 20px;
+  opacity: 0.5;
+  background-color: cornsilk;
+}
+
+.title{
+  font-weight: bold;
+  background-color: cornsilk;
+  opacity: 0.6;
+  width: 30%;
+  margin: 0 auto;
+}
+
+h1{
+  font-family: 'Source Code Pro', monospace;
+  color: gold;
+}
+
+body{
+  font-family: Georgia;
+  background-image: url("https://wallpaperplay.com/walls/full/0/8/7/234852.jpg");
+}
+
+
+img{
+  height: 250px;
+}
+
+.tips{
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  padding: 1px;
+  text-align: left;
+  display: inline-block;
+  background-color: cornsilk; 
+  opacity: 0.6;
+}
+
+h2{
+  text-align: left;
+  background-color: lightgrey;
+  opacity: 0.7;
+  width: 20%;
+}
+
+th{
+  border: 3px solid black;
+  background-color: cornsilk;
+  opacity: 0.9;
+}
+
+td{
+  border: 3px solid black;
+  background-color: rgba(245,245,245, 0.6);
+  
+}
