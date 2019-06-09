@@ -1,0 +1,43 @@
+  <table class="craft">
+      <thead>
+        <tr>
+          <th colspan="4">
+            <h1>Crafting Recipes</h1>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <h3>Recipe</h3>
+          </th>
+          <th>
+            <h3>Item</h3>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="left">
+            <img src="http://www.minecraftinformation.com/images/recipe-diamond-pickaxe.png" alt="Pickaxe Recipe">
+          </td>
+          <td>
+            <img src="https://www.sccpre.cat/mypng/full/42-427556_minecraft-pickaxe-png.png" alt="Pickaxe"}>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="http://www.minecraftinformation.com/images/recipe-diamond-sword.png" alt="Sword Recipe">
+          </td>
+          <td>
+            <img src="https://vignette.wikia.nocookie.net/minecraftpocketedition/images/f/f7/Diammd_Sord.png/revision/latest?cb=20140927054711" alt="Diamond Sword">
+          </td> 
+        </tr>
+        <tr>
+          <td>
+            <img src="http://www.minecraftinformation.com/wp-content/uploads/2014/07/recipe-diamond-axe.png" alt="Axe Recipe">
+          </td>
+          <td>
+            <img src="https://www.pngkit.com/png/full/155-1552828_minecraft-diamond-axe-png-png-transparent-moraine-lake.png" alt="Diamond Axe"
+          </td>
+        </tr>
+      </tbody>
+    </table>
