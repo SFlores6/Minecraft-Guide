@@ -79,3 +79,22 @@ table{
   margin: 0 auto;
   position: center;
 }
+
+
+form {
+  text-align: center;
+  line-height: 30px;
+  height: 80%;
+  overflow: auto;
+  margin-top: %;
+  background-color: rgba(237, 239, 242, 0.6);
+}
+
+img.steve{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  opacity: 0.9;
+}
+
