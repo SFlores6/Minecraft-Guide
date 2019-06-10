@@ -98,3 +98,7 @@ img.steve{
   opacity: 0.9;
 }
 
+.turtle{
+  background-color: rgba(245,245,245,0.6);
+  width: 40%;
+}
